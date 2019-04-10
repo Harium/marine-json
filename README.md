@@ -1,10 +1,10 @@
-# web-json
-Web module to handle json
+# marine-json
+Marine module to handle json
 
 ## Maven
 ```
 <dependency>
-    <groupId>com.harium.web</groupId>
+    <groupId>com.harium.marine</groupId>
     <artifactId>json</artifactId>
     <version>1.0.0</version>
 </dependency>

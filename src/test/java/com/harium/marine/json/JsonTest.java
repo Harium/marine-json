@@ -1,4 +1,4 @@
-package com.harium.web.json;
+package com.harium.marine.json;
 
 import org.junit.Assert;
 import org.junit.Test;

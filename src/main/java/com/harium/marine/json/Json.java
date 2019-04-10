@@ -1,4 +1,4 @@
-package com.harium.web.json;
+package com.harium.marine.json;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

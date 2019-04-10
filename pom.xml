@@ -3,17 +3,17 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.harium.web</groupId>
+    <groupId>com.harium.marine</groupId>
     <artifactId>json</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>Json Service</name>
     <description>Web's Json Service</description>
-    <url>http://github.com/harium/web-json</url>
+    <url>http://github.com/harium/marine-json</url>
     <scm>
-        <connection>scm:git:git://github.com/harium/web-json.git</connection>
-        <developerConnection>scm:git:ssh://github.com:harium/web-json.git</developerConnection>
-        <url>http://github.com/harium/web-json/tree/master</url>
+        <connection>scm:git:git://github.com/harium/marine-json.git</connection>
+        <developerConnection>scm:git:ssh://github.com:harium/marine-json.git</developerConnection>
+        <url>http://github.com/harium/marine-json/tree/master</url>
     </scm>
     <licenses>
         <license>
